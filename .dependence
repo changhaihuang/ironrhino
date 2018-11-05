@@ -28,7 +28,7 @@
 +netty-all
 -xmemcached
 -ironrhino-redis-config
-+bytebuddy
++byte-buddy
 +mockito-core
 -struts2-spring-plugin
 -struts2-jasperreports-plugin
