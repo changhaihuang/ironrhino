@@ -41,6 +41,7 @@
 -aopalliance
 -aspectjrt
 +snakeyaml
++jackson-module-mrbean
 +jackson-dataformat-smile<-ironrhino-remoting-common
 +resilience4j-core
 +resilience4j-circuitbreaker
