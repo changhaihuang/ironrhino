@@ -42,7 +42,7 @@
 -aspectjrt
 +snakeyaml
 +jackson-module-mrbean
-+jackson-dataformat-smile<-ironrhino-remoting-common
++jackson-dataformat-smile
 +resilience4j-core
 +resilience4j-circuitbreaker
 +micrometer-core
